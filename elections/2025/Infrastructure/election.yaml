@@ -1,0 +1,17 @@
+---
+name: Infrastructure Area Team
+organization: LLVM
+start_datetime: 2025-01-26 12:00:01
+end_datetime: 2025-02-11 12:00:01
+no_winners: 3
+allow_no_opinion: True
+show_candidate_fields:
+  - name
+  - github
+election_officers:
+  - llvm-beanz
+  - tstellar
+  - rnk
+  - aaronballman
+eligability: All LLVM Contributors
+...
