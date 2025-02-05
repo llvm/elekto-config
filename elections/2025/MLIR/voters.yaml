@@ -116,6 +116,7 @@ eligible_voters:
   - awatry
   - leandron
   - stephenneuendorffer
+  - lialan
   - fhahn
   - yuanfang-chen
   - CaseyCarter
@@ -138,6 +139,7 @@ eligible_voters:
   - yln
   - sam-mccall
   - modocache
+  - sebpop
   - chfast
   - razvanlupusoru
   - cooperp
@@ -255,6 +257,7 @@ eligible_voters:
   - mikhailramalho
   - dexonsmith
   - jaidTw
+  - Prince781
   - dellis23
   - svenvh
   - mordante
@@ -266,6 +269,7 @@ eligible_voters:
   - cor3ntin
   - vadve
   - gkistanova
+  - rscottmanley
   - ergawy
   - legrosbuffle
   - aaronpuchert
@@ -402,6 +406,7 @@ eligible_voters:
   - joker-eph
   - Dor1s
   - DaniilSuchkov
+  - Patryk27
   - vhscampos
   - benlangmuir
   - npanchen
@@ -545,6 +550,7 @@ eligible_voters:
   - vgvassilev
   - alexander-shaposhnikov
   - lukeg101
+  - xlauko
   - hanickadot
   - NuriAmari
   - jprotze
@@ -718,6 +724,7 @@ eligible_voters:
   - nathanchance
   - jwanggit86
   - Mel-Chen
+  - Luohaothu
   - MacDue
   - cferris1000
   - zhyty
@@ -762,6 +769,7 @@ eligible_voters:
   - tom-anders
   - lhtin
   - peterbell10
+  - winner245
   - jaykang10
   - DominikAdamski
   - ZERO-N
@@ -1581,6 +1589,7 @@ eligible_voters:
   - hstk30-hw
   - MouseSplinter
   - pabloantoniom
+  - gbMattN
   - TimAtGoogle
   - sstipano
   - erikfjon
@@ -1594,6 +1603,7 @@ eligible_voters:
   - bhandarkar-pranav
   - haopliu
   - mylai-mtk
+  - quic-areg
   - arpitj1
   - alekuz01
   - AlfieRichardsArm
@@ -1606,6 +1616,7 @@ eligible_voters:
   - anjenner
   - llvmsgghadm
   - cferry-AMD
+  - hchandel
   - DhruvSrivastavaX
   - jofrn
   - josel-amd
@@ -1624,3 +1635,454 @@ eligible_voters:
   - jcohen-apple
   - ssijaric-nv
   - swalk-qualcomm
+  - mprobst
+  - Theodor
+  - tinti
+  - agners
+  - cuviper
+  - steveire
+  - MadCoder
+  - rui314
+  - petecoup
+  - rjiejie
+  - chaitanyav
+  - LemonBoy
+  - jaingaurav
+  - LebedevRI
+  - simonpcook
+  - cameron314
+  - ckennelly
+  - sanjoy
+  - froydnj
+  - pcwalton
+  - mclow
+  - bdragon28
+  - snnw
+  - compositeprimes
+  - firewave
+  - ricky26
+  - Amanieu
+  - jsonn
+  - jaredwy
+  - jfbastien
+  - nkreeger
+  - MarkZ3
+  - vtjnash
+  - msebor
+  - nlewycky
+  - alex-t
+  - bader
+  - dsprenkels
+  - sscalpone
+  - jgalenson
+  - shawnl
+  - mikebenfield
+  - housel
+  - sebpop
+  - PkmX
+  - pmccormick
+  - DCastagna
+  - nagisa
+  - dgherzka
+  - mvanotti
+  - yuyichao
+  - joshkunz
+  - rmaz
+  - regehr
+  - Teemperor
+  - pbarrio
+  - hlopko
+  - dtzWill
+  - hyp
+  - pfaffe
+  - alexbatashev
+  - deanberris
+  - deadalnix
+  - tmroeder
+  - brettw
+  - ramosian-glider
+  - ramntry
+  - ogoffart
+  - GeorgeLyon
+  - gparker42
+  - cwabbott0
+  - ThomsonTan
+  - asaadaldien
+  - hjl-tools
+  - nlguillemot
+  - sergei-grechanik
+  - vlad902
+  - ddcc
+  - jbruestle
+  - mwyman
+  - timshen91
+  - gussmith23
+  - jankratochvil
+  - John-Lluch
+  - kernhanda
+  - kiszk
+  - xndcn
+  - emilio
+  - ColdenCullen
+  - chmeeedalf
+  - bsaleil
+  - vrnithinkumar
+  - hasyimibhar
+  - bigboze
+  - yurydelendik
+  - ArnaudBienner
+  - sgatev
+  - BillyONeal
+  - SaurabhJha
+  - ktran
+  - mkurdej
+  - whchung
+  - MoritzS
+  - upsj
+  - wingo
+  - nzaghen
+  - vinograd47
+  - rasmussn
+  - CodaFi
+  - inglorion
+  - donhinton
+  - loganchien
+  - jacob-hegna
+  - stbergmann
+  - pzfl
+  - sureyeaah
+  - devincoughlin
+  - llunak
+  - cebowler
+  - jim22k
+  - CareyJWilliams
+  - miscco
+  - gbalats
+  - vettoreldaniele
+  - atanasyan
+  - hhb
+  - kirillbobyrev
+  - jerryyin
+  - manishucsd
+  - DavidCallahan
+  - holio0
+  - brooksdavis
+  - zsrkmyn
+  - dokyungs
+  - francoisferrand
+  - apazos
+  - MForster
+  - jakubtuchol
+  - vaivaswatha
+  - dcb314
+  - fsb4000
+  - okkwon
+  - saarraz
+  - taewookoh
+  - TylerNowicki
+  - dendibakh
+  - miyuki
+  - airlied
+  - xairy
+  - nuta
+  - pendingchaos
+  - malavikasamak
+  - jacobbramley
+  - isuruf
+  - ganeshgit
+  - greened
+  - sdasgup3
+  - dongAxis
+  - archshift
+  - hkao13
+  - njames93
+  - t-tye
+  - dancgr
+  - naibaf7
+  - guansong
+  - jmciver
+  - royjacobson
+  - GMNGeoffrey
+  - patacca
+  - trenouf
+  - martong
+  - jvesely
+  - AntonBikineev
+  - noajshu
+  - zuban32
+  - CJ-Johnson
+  - hmk46
+  - nealsid
+  - mcgov
+  - chaosdefinition
+  - DragonDisciple
+  - dfava
+  - AlexeySotkin
+  - krytarowski
+  - GBuella
+  - randall77
+  - OleStrohm
+  - DanielMcIntosh
+  - PavelKopyl
+  - Moerafaat
+  - Somae
+  - AlexandreEichenberger
+  - eternastudento
+  - grokos
+  - dylanmckay
+  - tunz
+  - manueljacob
+  - samestep
+  - okuraofvegetable
+  - rainingmaster
+  - alexfanqi
+  - yrnkrn
+  - ardbiesheuvel
+  - mnauw
+  - jkshtj
+  - rgal
+  - scweng
+  - dsandersllvm
+  - kumasento
+  - edward-jones
+  - nmostafa
+  - yihonglyu
+  - tammela
+  - bsdjhb
+  - edwin-wang
+  - DaanDeMeyer
+  - emgullufsen
+  - mrragava
+  - JosephTremoulet
+  - lh123
+  - scentini
+  - jorgbrown
+  - hyeongyukim
+  - HFTrader
+  - zbrid
+  - limo1996
+  - fallkrum
+  - erickq
+  - ogiroux
+  - fjricci
+  - thanm
+  - simoll
+  - aniprasad
+  - maxim-kuvyrkov
+  - gargaroff
+  - liufengdb
+  - wweiandrew
+  - persona0220
+  - aaronsm
+  - rouson
+  - xiaoyang-sde
+  - zoecarver
+  - jrose-apple
+  - aralisza
+  - gaborbencze
+  - fredriss
+  - abinavpp
+  - Ralender
+  - Conanap
+  - FabianWolff
+  - Emilyaxe
+  - denis-fatkulin
+  - dpalermo
+  - nilayvaish
+  - broadwaylamb
+  - paolosevMSFT
+  - dmmikulin
+  - electriclilies
+  - estewart08
+  - bcl5980
+  - anemet
+  - dlj-NaN
+  - taoliq
+  - jaro-sevcik
+  - stephenhines
+  - rotateright
+  - feg208
+  - steven-wan-yu
+  - atmnpatel
+  - rtenneti-google
+  - markschimmel
+  - akshaykhadse
+  - HLJ2009
+  - AlexisPerry
+  - TaWeiTu
+  - ksyx
+  - graham-yiu
+  - morehouse
+  - tzolnai
+  - mcinally
+  - Kmeakin
+  - ibricchi
+  - Charusso
+  - virnarula
+  - ChristianKuehnel
+  - tskeith
+  - msifontes
+  - tkrasnukha
+  - kitbarton
+  - boga95
+  - kamleshbhalui
+  - drcut
+  - int6
+  - ShangwuYao
+  - kepler-5
+  - willlovett-arm
+  - sammy-1234
+  - Wawha
+  - tyb0807
+  - zacharyselk
+  - abialas1
+  - Sameeranjoshi
+  - JohnTitor
+  - denis0x0D
+  - sdardis
+  - Jaysonyan
+  - SouraVX
+  - aankit-ca
+  - rojamd
+  - MoringLiu
+  - hamax97
+  - lucarfox
+  - fahadnayyar
+  - Sezoir
+  - ShuhongLL
+  - Krishnakariya
+  - vjayathirtha-nv
+  - rarutyun
+  - abelkocsis
+  - ktomi996
+  - matejaMarjanovic
+  - rdzhabarov
+  - zrthxn
+  - adibiagio
+  - asteinha
+  - riccibruno
+  - Marcythm
+  - zukatsinadze
+  - StuartDBrady
+  - diseraluca
+  - onur-ozkan
+  - thomasjoerg
+  - ekieri
+  - dfki-ehna
+  - MikeDvorskiy
+  - joker881
+  - alextsao1999
+  - sumesh13
+  - mhpr93
+  - jj10306
+  - CoelacanthusHex
+  - TomWeaver18
+  - RichBarton-Arm
+  - chbessonova
+  - changkaiyan
+  - tauchris
+  - nullptr-cpp
+  - Topotuna
+  - VictorHuangIBM
+  - jasonliudev
+  - HanKuanChen
+  - gkousik
+  - Purva-Chaudhari
+  - anshu-dasgupta
+  - eywdck2l
+  - kiranktp
+  - tmiasko
+  - martijnvels
+  - varungandhi-apple
+  - wxie7
+  - merrymeerkat
+  - amccarth-google
+  - petretudor-arm
+  - Arsenic-ATG
+  - jcoplin-quic
+  - JonPsson
+  - gbreynoo
+  - uabjean
+  - rochauha
+  - rcraik
+  - etiotto
+  - SEmmmer
+  - henrickarlsson
+  - drichards-87
+  - qshanz373
+  - XiaodongLoong
+  - shabalind
+  - dfki-jugr
+  - sajjadm-google
+  - hkmatsumoto
+  - johnson-troy
+  - luke957
+  - alitamur
+  - junparser
+  - xur-llvm
+  - jtmott-intel
+  - christetreault-llvm
+  - JakeMerdichAMD
+  - rksharma-yymd
+  - llvmbot
+  - rdomingu
+  - ASDenysPetrov
+  - jimmyzhongduo
+  - xortator
+  - amrami
+  - grosul1
+  - msdataei
+  - azabazno
+  - pdhaliwal-amd
+  - mmuetzel
+  - jurahul
+  - ahsansaghir
+  - nawrinsu
+  - biplmish
+  - MeeraN7
+  - avieira-arm
+  - stephan-yichao-zhao
+  - vadikp-intel
+  - cmagahern
+  - markuslavin
+  - rs-arm
+  - mvinay-ctt
+  - duk-37
+  - apple-fcloutier
+  - arangasa
+  - od102
+  - tianqingw
+  - xling-liao
+  - troyjhns
+  - pscoro
+  - gonglingqin
+  - stelios-arm
+  - david-greene-cb
+  - IPerryArm
+  - sfc-gh-sgiesecke
+  - malJaj
+  - jfgoog
+  - RosieSumpter
+  - DylanFleming-arm
+  - HedGarcia
+  - PeixinQiao
+  - caitlyncano
+  - anjankumar-g-k
+  - MarsPLR
+  - Yunzezhu94
+  - v1nh1shungry
+  - yanming123456
+  - nhuhuan
+  - tyb-arm
+  - dpenry
+  - luken-google
+  - ngeorge1098
+  - mbs-modular
+  - nicolerabjohn
+  - limingliv
+  - troyj-gh
+  - arakawamasahiro-fj
+  - sushgokh
+  - k-arrows
+  - h11322689
+  - iagarwa
