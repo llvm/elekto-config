@@ -1,5 +1,3 @@
-# Test Election - Best LLVM Sub-project
-
 The election ran from 2025-01-20 00:00:01 UTC to 2025-01-25 00:00:01 UTC.
 
 48 ballots were cast, with 1625 eligible voters, which is ~3% participation.
