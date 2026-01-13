@@ -29,7 +29,7 @@ _all_ Area Team elections.
 
 Any individual with commit access to LLVM may nominate themselves for any _one_
 Area Team election in a given election cycle. They may do so by completing the
-[nomination form](https://docs.google.com/forms/d/e/1FAIpQLScl4V4g1uYgCPLVs99P0kmG-H-ss8N2zE00zRcDqJnGDRwRJg/viewform?usp=dialog).
+[nomination form](https://docs.google.com/forms/d/e/1FAIpQLScl4V4g1uYgCPLVs99P0kmG-H-ss8N2zE00zRcDqJnGDRwRJg/viewform?usp=header).
 
 The nomination form has required fields for your GitHub ID, your full name, and
 a preferred email address for communication as well as an optional field for a
