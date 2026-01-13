@@ -1,6 +1,7 @@
 # 2026 LLVM Community Area Team Elections
 
-The Clang Area Team elections are about to open. The election schedule is:
+The LLVM Community Area Team elections are about to open. The election schedule
+is:
 
 * January 12, 2026 - Area Team nominations opens
 * January 25, 2026 - Area Team nominations close
