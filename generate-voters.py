@@ -27,8 +27,6 @@ def main():
       file.write('eligible_voters:\n')
       for committer in committers:
         file.write('  - %s\n' % committer)
-      if 'asl' not in committers:
-        file.write('  - asl\n')
 
 if __name__ == '__main__':
   main()
