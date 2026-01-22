@@ -6,8 +6,12 @@ import os
 import subprocess
 import json
 
-TEAM_PROMPT = 'Which area team(s) would you like to volunteer for?'
+TIMESTAMP = 'Timestamp'
+NAME = 'Full Name'
+EMAIL = 'Preferred email address'
+TEAM_PROMPT = 'Which Area Team would you like to volunteer for?'
 GITHUB = 'GitHub handle'
+STATEMENT = 'Candidate Statement (Markdown formatting allowed)'
 
 def QueryCommitters():
   ghCommand = ['gh', 'api', '-H', 'Accept: application/vnd.github+json',
@@ -30,7 +34,7 @@ def main():
   election_dir = sys.argv[1]
   candidates = sys.argv[2]
   committers = [committer['login'] for committer in QueryCommitters()]
-  nominees = {'LLVM':[], 'Clang':[], 'MLIR':[], 'Infrastructure':[], 'Community':[]}
+  nominees = {'LLVM':[], 'Clang':[], 'MLIR':[], 'Infrastructure':[]}
   with open(candidates, 'r') as file:
     data = csv.DictReader(file)
     for row in data:
@@ -40,17 +44,18 @@ def main():
         Status = ' - **Ineligible**'
       for team in row[TEAM_PROMPT].split(','):
         candidate_md = os.path.join(election_dir, team.strip(), 'candidate-%s.md' % GitHub)
-        nominees[team.strip()].append('* %s - %s%s' % (GitHub, row['Name'], Status))
-        if os.path.exists(candidate_md):
-          continue
+        nominees[team.strip()].append('* %s - %s%s' % (GitHub, row[NAME], Status))
+        #if os.path.exists(candidate_md):
+        #  continue
         with open(candidate_md, 'w') as candidate_file:
           candidate_file.write('---\n')
-          candidate_file.write('name: %s\n' % row['Name'])
+          candidate_file.write('name: %s\n' % row[NAME])
           candidate_file.write('ID: %s\n' % GitHub)
           candidate_file.write('info:\n')
           candidate_file.write('  - github: %s\n' % GitHub)
-          candidate_file.write('  - name: %s\n' % row['Name'])
+          candidate_file.write('  - name: %s\n' % row[NAME])
           candidate_file.write('---\n')
+          candidate_file.write(row[STATEMENT])
           candidate_file.write('\n')
   for team in nominees:
     print('## %s' % team)
