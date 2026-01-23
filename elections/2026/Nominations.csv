@@ -42,3 +42,5 @@ Beyond code, Gábor is deeply committed to the LLVM community: he has mentored m
 
 Professionally, he has worked on MSVC code analysis tools at Microsoft and currently leads efforts at Apple to improve C++ interoperability with memory-safe languages like Swift."
 1/21/2026 12:29:14,Matt Arsenault,arsenm2@gmail.com,arsenm,LLVM,"Matt is currently an engineer at AMD, and has been an active LLVM contributor since 2013. His contributions span various aspects of the compiler infrastructure, particularly improvements in code generation, and optimizations for GPU architectures. He is the maintainer of the LLVM AMDGPU backend."
+1/22/2026 13:09:07,Jakub Kuderski,kubakuderski@gmail.com,kuhar,LLVM,Support / ADT maintainer
+1/22/2026 17:52:24,James Y Knight,jyknight@google.com,jyknight,LLVM,"James is an engineer on Google's LLVM toolchain team, and has been an active member of the LLVM community since 2015. He has worked on a variety of different areas of LLVM and Clang through the years, including the SPARC backend, improved support and specification of atomics, and more. He is currently contributing to the LLVM Formal specification working group."
