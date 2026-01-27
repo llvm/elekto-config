@@ -3,7 +3,7 @@ name: Clang Area Team
 organization: LLVM
 start_datetime: 2026-01-26 12:00:01
 end_datetime: 2026-02-10 12:00:01
-no_winners: 3
+no_winners: 5
 allow_no_opinion: True
 show_candidate_fields:
   - name
